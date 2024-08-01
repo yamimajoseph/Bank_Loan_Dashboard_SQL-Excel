@@ -27,17 +27,17 @@ Data Visualization - Microsoft Excel
 13. What is the average loan term?
 14. What is the average loan repayment period?
 
-## Summary of Key Findings
+## Summary of Findings
 
-A total of 38,600 loan applications were processed, resulting in $435.8 million in total funded loans.
+• A total of 38,600 loan applications were processed, resulting in $435.8 million in total funded loans.
 
-The bank has collected $473.1 million in loan repayments.
+• The bank has collected $473.1 million in loan repayments.
 
-Borrowers, on average, have a debt-to-income ratio of 13.33% and are charged an average interest rate of 12.05%.
+• Borrowers, on average, have a debt-to-income ratio of 13.33% and are charged an average interest rate of 12.05%.
 
-The loan portfolio demonstrates a strong performance, with 86.18% of loans categorized as 'good'. Conversely, 13.82% of loans are classified as 'bad'.
+• The loan portfolio demonstrates a strong performance, with 86.18% of loans categorized as 'good'. Conversely, 13.82% of loans are classified as 'bad'.
 
-Car loans constitute the largest loan category, followed by credit card and debt consolidation loans.
+• Car loans constitute the largest loan category, followed by credit card and debt consolidation loans.
 
-The majority of loans are currently in a fully paid status.
+• The majority of loans are currently in a fully paid status.
 
